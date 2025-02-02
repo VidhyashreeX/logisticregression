@@ -1,0 +1,4 @@
+name,email,age_group,gender,blood_pressure,fasting_blood_sugar,random_blood_sugar,diagnosed_diabetes,diabetes_type,bmi,exercise_frequency,diet,resources,medications,medication_types,medication_duration,medication_frequency,side_effects,side_effects_specify,medication_needs_changed,tracking_methods
+vidya,21aiml097@bnmit.in,20-29,Female,Normal (120/80 mmHg),Less than 100 mg/dL (Normal),Less than 140 mg/dL (Normal),Yes,Type 1,Underweight,Never,High in carbohydrates,sensitisation,Yes,,,,,,,
+vidya,shree@gmail.com,Under 20,Male,Normal (120/80 mmHg),Less than 100 mg/dL (Normal),Less than 140 mg/dL (Normal),Yes,Type 1,Underweight,Never,High in carbohydrates,teaching,Yes,Insulin,Less than 6 months,Once daily,Yes,,"Yes, increased",
+vidya,shree@gmail.com,Under 20,Male,Normal (120/80 mmHg),Less than 100 mg/dL (Normal),Less than 140 mg/dL (Normal),Yes,Type 1,Underweight,Never,High in carbohydrates,teaching,Yes,Insulin,Less than 6 months,Once daily,Yes,,"Yes, increased",
